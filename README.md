@@ -17,3 +17,10 @@ Rather than focusing only on code, this repository emphasizes understanding, doc
 With 14+ years of experience in Digital Marketing, Email Marketing, Marketing Automation, and Technical Content, I recently transitioned into the field of Artificial Intelligence.
 
 My AI journey began through LLM evaluation, RLHF-related work, and AI data annotation, and has since expanded into AI Safety, Prompt Engineering, and AI Research. I believe continuous learning and hands-on experience are essential in this rapidly evolving field, and this repository reflects that commitment.
+
+## Repository Structure
+
+- **AI Projects** – Notes and learnings from AI projects and platforms.
+- **AI Concepts** – Core concepts such as RLHF, Prompt Engineering, AI Evaluation, AI Safety, and Responsible AI.
+- **Weekly Learning Log** – A chronological record of new concepts, resources, and reflections.
+- **Resources** – Useful references, articles, papers, and learning materials.
