@@ -60,3 +60,8 @@ This repository is an ongoing learning journal and will be updated regularly wit
 - Research summaries
 - Learning milestones
 - Useful resources and references
+
+## Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/deepika-samant/
+- 💻 **GitHub:** https://github.com/deepikasamantt-ai
