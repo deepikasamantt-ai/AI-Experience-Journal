@@ -38,4 +38,15 @@ My AI journey began through LLM evaluation, RLHF-related work, and AI data annot
 - AI Research Fundamentals
 - Physical Intelligence (Learning Notes)
 
+  ## Current Learning Focus
+
+I am actively expanding my knowledge in the following areas:
+
+- AI Evaluation & LLM Assessment
+- Prompt Engineering
+- AI Safety & Responsible AI
+- Red Teaming Fundamentals
+- AI Research & Information Verification
+- Physical Intelligence
+
   
