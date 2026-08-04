@@ -24,3 +24,18 @@ My AI journey began through LLM evaluation, RLHF-related work, and AI data annot
 - **AI Concepts** – Core concepts such as RLHF, Prompt Engineering, AI Evaluation, AI Safety, and Responsible AI.
 - **Weekly Learning Log** – A chronological record of new concepts, resources, and reflections.
 - **Resources** – Useful references, articles, papers, and learning materials.
+
+## Topics Covered
+
+- Large Language Models (LLMs)
+- Reinforcement Learning from Human Feedback (RLHF)
+- AI Evaluation
+- Prompt Engineering
+- AI Safety
+- Red Teaming
+- Responsible AI
+- Hallucination Detection
+- AI Research Fundamentals
+- Physical Intelligence (Learning Notes)
+
+  
